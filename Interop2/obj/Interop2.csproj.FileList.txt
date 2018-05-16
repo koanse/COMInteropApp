@@ -1,0 +1,5 @@
+bin\Debug\Interop2.exe
+bin\Debug\Interop2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop2.exe
+obj\Debug\Interop2.pdb
